@@ -1,0 +1,493 @@
+
+
+@media (min-width: 992px) and (max-width: 1199px){
+    .main_menu ul li {
+        margin: 0 7px;
+    }
+    .slider-height{
+        min-height: 1060px;
+        background-position: center center;
+    }
+    .shape-02 {
+        bottom: 23%;
+        left: 60%;
+    }
+    .feature-text p {
+        padding: 0;
+    }
+    .work-area .app-text h3 {
+        font-size: 32px;
+        margin-top: 60px;
+    }
+    .work-area .app-text-2 h3 {
+        font-size: 32px;
+        margin-top: 100px;
+    }
+    .price-header {
+        margin-bottom: 20px;
+        padding-bottom: 0px;
+    }
+    .price-item-list ul li {
+        margin-bottom: 13px;
+    }
+    .inner-blog {
+        padding: 30px 25px;
+    }
+    .subscribe-form {
+        padding-left: 0;
+    }
+    .subscribe-title h3 {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .available-btn {
+        padding: 0 180px;
+        margin-bottom: 110px;
+    }
+}
+@media (max-width: 991px){
+    .slider-height{
+        min-height: 800px;
+    }
+    .slicknav_menu{
+        display: block;
+        width: 100%;
+        background-image: -moz-linear-gradient( -51deg, rgb(47,50,212) 0%, rgb(113,66,247) 100%);
+        background-image: -webkit-linear-gradient( -51deg, rgb(47,50,212) 0%, rgb(113,66,247) 100%);
+        background-image: -ms-linear-gradient( -51deg, rgb(47,50,212) 0%, rgb(113,66,247) 100%);
+        position: fixed;
+        top: 0;
+        z-index: 9999;
+    }
+    .slicknav_btn {
+        background-image: -moz-linear-gradient( 178deg, rgb(255,153,165) 0%, rgb(255,96,163) 100%);
+        background-image: -webkit-linear-gradient( 178deg, rgb(255,153,165) 0%, rgb(255,96,163) 100%);
+        background-image: -ms-linear-gradient( 178deg, rgb(255,153,165) 0%, rgb(255,96,163) 100%);
+        border-radius: 8px;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        -ms-border-radius: 8px;
+        -o-border-radius: 8px;
+    }
+    .menu-container{
+        display: none;
+    }
+    .logo {
+        display: none;
+    }
+    .slider-content-space {
+        padding-top: 200px;
+    }
+    .shape-01 {
+        top: 6%;
+        left: 6%;
+    }
+    .shape-02 {
+        bottom: 7%;
+        left: 67%;
+    }
+    .fact-area{
+        padding-top: 50px;
+    }
+    .feature-text p {
+        font-size: 14px;
+        padding: 0px 15px;
+    }
+    .video-content {
+        left: 31%;
+        top: 30%;
+    }
+    .work-area .app-text h3 {
+        margin-top: 0px;
+    }
+    .work-area .app-text-2 h3 {
+        margin-top: 90px;
+    }
+    .app-text-2{
+        padding-left: 30px;
+    }
+    .app-2{
+        margin-top: 40px;
+    }
+    .subscribe-title h3 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .subscribe-form {
+        padding-left: 0;
+    }
+    .available-btn {
+        padding: 0 30px;
+        margin-bottom: 100px;
+    }
+}
+
+@media (max-width: 576px){
+    .shape-01 {
+        top: 12%;
+        left: 7%;
+    }
+    .slider-text h2 {
+        font-size: 48px;
+        padding-right: 50px;
+    }
+    .slider-text p {
+        font-size: 18px;
+        line-height: 30px;
+        margin-bottom: 35px;
+    }
+    .slider-btn a {
+        margin-right: 10px;
+        font-size: 13px;
+    }
+    .shape-02 {
+        display: none;
+    }
+    .slider-height {
+        min-height: 650px;
+    }
+    .single-fact h2 {
+        font-size: 42px;
+        margin-bottom: 0;
+    }
+    .features-area {
+        padding-top: 90px;
+        padding-bottom: 70px;
+    }
+    .feature-text p {
+        padding: 0px 75px;
+    }
+    .video-wrapper {
+        height: 550px;
+    }
+    .video-content {
+        left: 25%;
+        top: 28%;
+    }
+    .testimonial-area h2 {
+        font-size: 42px;
+        margin-bottom: -20px;
+    }
+    .work-area .section-title p {
+        font-size: 18px;
+    }
+    .work-area .app-text-2 h3 {
+        margin-top: 50px;
+    }
+    .test-item p {
+        font-size: 24px;
+    }
+    .section-title h2 {
+        font-size: 42px;
+        margin-bottom: 15px;
+    }
+    .blog-area {
+        padding: 40px 0;
+    }
+    .blog-img{
+        margin-left: 70px;
+    }
+    .blog-content {
+        padding: 0px 105px;
+        margin-top: -70px;
+        position: relative;
+        z-index: 99;
+    }
+    .inner-blog {
+        padding: 28px 25px;
+    }
+    .subscribe-area .sub-bg {
+        padding: 50px 45px;
+    }
+    .footer-area h2 {
+        font-size: 48px;
+    }
+    .available-btn {
+        padding: 0 60px;
+        margin-bottom: 90px;
+    }
+
+}
+@media (max-width: 480px){
+    .slider-text h2 {
+        font-size: 42px;
+        padding-right: 50px;
+    }
+    .btn-main {
+        padding: 20px 30px;
+    }
+    .slider-text p {
+        font-size: 16px;
+    }
+    .single-fact h2 {
+        font-size: 32px;
+    }
+    .single-fact span {
+        font-size: 14px;
+    }
+    .section-title h2 {
+        font-size: 38px;
+    }
+    .section-title p {
+        font-size: 16px;
+        line-height: 30px;
+        color: #878991;
+    }
+    .video-content {
+        left: 20%;
+        top: 28%;
+    }
+    .work-area .app-text h3 {
+        font-size: 26px;
+        margin-bottom: 15px;
+    }
+    .work-area .app-text p {
+        margin-bottom: 20px;
+    }
+    .work-area .app-text-2 h3 {
+        margin-top: 20px;
+    }
+    .work-area .app-text-2 h3 {
+        font-size: 26px;
+        margin-bottom: 15px;
+    }
+    .work-area .app-text-2 p {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .testimonial-area {
+        padding-top: 355px;
+    }
+    .testimonial-area h2 {
+        font-size: 38px;
+        margin-bottom: -50px;
+    }
+    .test-item p {
+        font-size: 18px;
+    }
+    .testimonial-area {
+        padding-bottom: 80px;
+    }
+    .screenshot-area {
+        padding-top: 80px;
+    }
+    .blog-img{
+        margin-left: 40px;
+    }
+    .blog-content {
+        padding: 0px 85px;
+    }
+    .subscribe-area .sub-bg {
+        padding: 50px 30px;
+    }
+    .subscribe-title h3 {
+        font-size: 28px;
+    }
+    .subscribe-form button {
+        padding: 20px 25px;
+        font-size: 13px;
+    }
+    .subscribe-form input {
+        height: 70px;
+        font-size: 16px;
+    }
+    .available-btn {
+        padding: 0 40px;
+        margin-bottom: 90px;
+    }
+    .footer-area h2 {
+        font-size: 42px;
+    }
+
+}
+@media (max-width: 480px){
+    .slider-text h2 {
+        font-size: 32px;
+    }
+    .slider-height {
+        min-height: 520px;
+    }
+    .video-content .video-text h3 {
+        font-size: 38px;
+    }
+    .blog-img{
+        margin-left: 20px;
+    }
+    .blog-content {
+        padding: 0px 45px;
+    }
+    .available-btn{
+        display: flex;
+        flex-direction: column;
+    }
+    .available-btn a{
+        margin-bottom: 25px;
+    }
+    .available-btn {
+        padding: 0 40px;
+        margin-bottom: 60px;
+    }
+    .footer-area p {
+        font-size: 10px;
+        color: #38363d;
+    }
+}
+@media (max-width: 320px){
+    .shape-01 {
+        top: 12%;
+        left: 7%;
+        width: 50px;
+    }
+    .slider-text h2 {
+        font-size: 26px;
+        padding-right: 50px;
+        margin-bottom: 10px;
+    }
+    .slider-text p {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .btn-main {
+        font-size: 12px;
+        padding: 15px 25px;
+    }
+    .slider-height {
+        min-height: 500px;
+    }
+    .single-fact h2 {
+        font-size: 26px;
+    }
+    .single-fact::after{
+        display: none;
+    }
+    .single-fact span {
+        font-size: 10px;
+    }
+    .section-title h2 {
+        font-size: 32px;
+    }
+    .section-title p {
+        font-size: 12px;
+        line-height: 26px;
+    }
+    .mmb-70 {
+        margin-bottom: 30px;
+    }
+    .feature-text p {
+        padding: 0px 20px;
+    }
+    .features-area {
+        padding-bottom: 50px;
+    }
+    .video-content .video-text h3 {
+        font-size: 30px;
+    }
+    .video-content .video-icon {
+        height: 100px;
+        width: 100px;
+    }
+    .video-wrapper {
+        height: 400px;
+    }
+    .section-title h2 {
+        font-size: 28px;
+    }
+    .work-area .section-title p {
+        font-size: 10px;
+    }
+    .work-area .app-text h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .work-area .app-text p {
+        font-size: 10px;
+        line-height: 20px;
+        padding-right: 0px;
+        margin-bottom: 15px;
+    }
+    .work-area .app-text-2 h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .testimonial-area {
+        padding-top: 290px;
+    }
+    .testimonial-area h2 {
+        font-size: 28px;
+        margin-bottom: -5px;
+    }
+    .test-item p {
+        font-size: 14px;
+    }
+    .test-img-item img{
+        height: 80px;
+    }
+    .section-title p {
+        font-size: 10px;
+        line-height: 22px;
+    }
+    .section-title h2 {
+        margin-bottom: 10px;
+    }
+    .faq-area .section-title {
+        padding-top: 80px;
+    }
+    .faq-wrapper .accordion-body p {
+        font-size: 12px;
+    }
+    .faq-wrapper .btn-faq {
+        padding: 20px 30px;
+        font-size: 16px;
+    }
+    .brand-heading h3{
+        font-size: 18px;
+    }
+    .faq-area {
+        padding-bottom: 30px;
+    }
+    .blog-img{
+        margin-left: 20px;
+    }
+    .blog-content {
+        padding: 0px 45px;
+    }
+    .l-b-meta span {
+        font-size: 13px;
+        margin-right: 8px;
+    }
+    .inner-blog h3 {
+        font-size: 14px;
+    }
+    .inner-blog {
+        padding: 25px 20px;
+    }
+    .subscribe-title h3 {
+        font-size: 22px;
+    }
+    .subscribe-area .sub-bg {
+        padding: 40px 20px;
+    }
+    .subscribe-form button {
+        padding: 15px 20px;
+        font-size: 12px;
+    }
+    .subscribe-form input {
+        height: 60px;
+        padding: 0 25px;
+        font-size: 13px;
+    }
+    .subscribe-area {
+        padding-bottom: 50px;
+    }
+    .footer-area {
+        padding: 30px 0;
+    }
+    .footer-area h2 {
+        font-size: 28px;
+    }
+}
+
+
+
+
