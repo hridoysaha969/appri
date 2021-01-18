@@ -122,10 +122,73 @@
     }
 }
 
+@media (max-width: 768px){
+    .shape-01 {
+        top: 10%;
+        left: 4%;
+    }
+    .shape-02 {
+        bottom: 5%;
+        left: 73%;
+        width: 100px;
+    }
+    .slider-text h2 {
+        font-size: 48px;
+        padding-right: 120px;
+    }
+    .slider-text p {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 35px;
+    }
+    .slider-height {
+        min-height: 700px;
+    }
+    .feature-text p {
+        font-size: 13px;
+        padding: 0px 5px;
+    }
+    .features-area {
+        padding-top: 150px;
+        padding-bottom: 80px;
+    }
+    .single-fact::after{
+        display: none;
+    }
+    .video-content .video-text h3 {
+        font-size: 42px;
+    }
+    .video-content .video-icon {
+        height: 120px;
+        width: 120px;
+    }
+    .section-title h2 {
+        font-size: 42px;
+        margin-bottom: 15px;
+    }
+    .section-title p {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 0 65px;
+    }
+    .footer-area h2 {
+        font-size: 48px;
+    }
+    .available-btn {
+        padding: 0 130px;
+        margin-bottom: 100px;
+    }
+}
+
 @media (max-width: 576px){
     .shape-01 {
         top: 12%;
         left: 7%;
+    }
+    .shape-02 {
+        bottom: -5%;
+        left: 65%;
+        width: 80px;
     }
     .slider-text h2 {
         font-size: 48px;
@@ -134,17 +197,15 @@
     .slider-text p {
         font-size: 18px;
         line-height: 30px;
+
         margin-bottom: 35px;
     }
     .slider-btn a {
         margin-right: 10px;
         font-size: 13px;
     }
-    .shape-02 {
-        display: none;
-    }
     .slider-height {
-        min-height: 650px;
+        min-height: 590px;
     }
     .single-fact h2 {
         font-size: 42px;
@@ -181,6 +242,10 @@
         font-size: 42px;
         margin-bottom: 15px;
     }
+    .section-title p {
+        font-size: 18px;
+        padding: 0 10px;
+    }
     .blog-area {
         padding: 40px 0;
     }
@@ -197,21 +262,28 @@
         padding: 28px 25px;
     }
     .subscribe-area .sub-bg {
-        padding: 50px 45px;
+        padding: 45px 30px;
     }
     .footer-area h2 {
         font-size: 48px;
     }
+    .available-btn{
+        display: flex;
+        flex-direction: column;
+    }
+    .available-btn a{
+        margin-bottom: 25px;
+    }
     .available-btn {
-        padding: 0 60px;
-        margin-bottom: 90px;
+        padding: 0 40px;
+        margin-bottom: 60px;
     }
 
 }
 @media (max-width: 480px){
     .slider-text h2 {
-        font-size: 42px;
-        padding-right: 50px;
+        font-size: 38px;
+        padding-right: 75px;
     }
     .btn-main {
         padding: 20px 30px;
@@ -231,7 +303,7 @@
     .section-title p {
         font-size: 16px;
         line-height: 30px;
-        color: #878991;
+        padding: 0 0px;
     }
     .video-content {
         left: 20%;
@@ -259,7 +331,7 @@
         padding-top: 355px;
     }
     .testimonial-area h2 {
-        font-size: 38px;
+        font-size: 34px;
         margin-bottom: -50px;
     }
     .test-item p {
@@ -276,6 +348,9 @@
     }
     .blog-content {
         padding: 0px 85px;
+    }
+    .brand-heading h3{
+        font-size: 26px;
     }
     .subscribe-area .sub-bg {
         padding: 50px 30px;
@@ -298,14 +373,50 @@
     .footer-area h2 {
         font-size: 42px;
     }
+    .footer-area {
+        padding: 30px 0;
+    }
 
 }
-@media (max-width: 480px){
+@media (max-width: 380px){
     .slider-text h2 {
-        font-size: 32px;
+        font-size: 28px;
+    }
+    .slider-text p {
+        line-height: 25px;
+        margin-bottom: 30px;
     }
     .slider-height {
         min-height: 520px;
+    }
+    .single-fact span {
+        font-size: 10px;
+    }
+    .feature-text p {
+        padding: 0px 50px;
+    }
+    .section-title p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+    .work-area .app-text h3 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .work-area .app-text-2 h3 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .test-img-item img{
+        height: 90px;
+    }
+    .test-img-item::before{
+        left: 6px;
+        width: 90px;
+        height: 90px;
+    }
+    .brand-heading h3 {
+        font-size: 22px;
     }
     .video-content .video-text h3 {
         font-size: 38px;
@@ -316,16 +427,8 @@
     .blog-content {
         padding: 0px 45px;
     }
-    .available-btn{
-        display: flex;
-        flex-direction: column;
-    }
-    .available-btn a{
-        margin-bottom: 25px;
-    }
-    .available-btn {
-        padding: 0 40px;
-        margin-bottom: 60px;
+    .footer-area h2 {
+        font-size: 38px;
     }
     .footer-area p {
         font-size: 10px;
@@ -337,6 +440,11 @@
         top: 12%;
         left: 7%;
         width: 50px;
+    }
+    .shape-02 {
+        bottom: -6%;
+        left: 60%;
+        width: 70px;
     }
     .slider-text h2 {
         font-size: 26px;
@@ -356,9 +464,6 @@
     }
     .single-fact h2 {
         font-size: 26px;
-    }
-    .single-fact::after{
-        display: none;
     }
     .single-fact span {
         font-size: 10px;

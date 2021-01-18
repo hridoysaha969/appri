@@ -4303,3 +4303,62 @@
 [0117/142135.057:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
 [0117/142140.084:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
 [0117/142145.117:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132007.078:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132012.183:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132017.205:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132022.222:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132027.230:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132032.246:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132037.263:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132042.285:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132047.299:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132052.330:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132057.351:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132102.357:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132107.375:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132112.409:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132117.418:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132122.443:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132127.530:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132132.567:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132137.583:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132142.591:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132147.609:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132152.623:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132157.645:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132202.663:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132207.674:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132212.686:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132217.704:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132222.728:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132227.770:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132232.784:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132237.806:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132242.832:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132247.847:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132252.870:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132257.879:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132302.897:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132307.917:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132310.765:INFO:CONSOLE(1)] "%cUnhandled rejection Error: unknown exception type
+    at <anonymous>:1:1
+From previous event:
+    at O.M [as _captureStackTrace] (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js:1:15957)
+    at O._then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js:1:41006)
+    at O.then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js:1:39362)
+    at Object.24 (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/main.js:1:33074)
+    at o (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/spaces.js:1:410)
+    at window.webpackJsonp (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/spaces.js:1:284)
+    at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/main.js:1:1", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0118/132312.935:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0118/132313.369:INFO:CONSOLE(1)] "%cUnhandled rejection Error: unknown exception type
+    at <anonymous>:1:1
+From previous event:
+    at O.M [as _captureStackTrace] (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js:1:15957)
+    at O._then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js:1:41006)
+    at O.then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js:1:39362)
+    at Object.24 (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/main.js:1:33074)
+    at o (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/spaces.js:1:410)
+    at window.webpackJsonp (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/spaces.js:1:284)
+    at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/main.js:1:1", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0118/132317.954:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
